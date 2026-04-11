@@ -8,8 +8,7 @@
 
 ## 🚀 About Me
 - 💻 Building games, systems & useful tools  
-- 🎮 Focused on Roblox development (Lua)  
-- 🐍 Learning Python for automation & scripting  
+- 🎮 Focused on Roblox development
 - 🌐 Improving in HTML & CSS  
 - 🚀 Starting soon at **@wobcom**
 
@@ -31,21 +30,14 @@
 ---
 
 ## ⚡ Skills
-<p>
-  <img src="https://img.shields.io/badge/Roblox-Studio-red?style=for-the-badge&logo=roblox"/>
-  <img src="https://img.shields.io/badge/Lua-Scripting-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Python-Learning-yellow?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/HTML-5-orange?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS-3-blue?style=for-the-badge&logo=css3"/>
-</p>
+<div align="center">
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
+</div>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
