@@ -10,7 +10,7 @@
 - 💻 Building games, systems & useful tools  
 - 🎮 Focused on Roblox development
 - 🌐 Improving in HTML & CSS  
-- 🚀 Starting soon at **@wobcom**
+- 🚀 Starting soon at [wobcom](https://www.wobcom.de)
 
 ---
 
