@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Danny</h1>
 
 <p align="center">
-💻 Developer • 🎮 Game Creator • 🚀 Future @wobcom
+💻 Developer • 🎮 Game Creator • 🚀 Future [wobcom](https://www.wobcom.de)
 </p>
 
 ---
