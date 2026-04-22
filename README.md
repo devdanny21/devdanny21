@@ -45,6 +45,7 @@
 ---
 
 [![Now Coding](https://widgets.1ceit.com/devdanny21/nowcoding?v=1)](https://widgets.1ceit.com/devdanny21/nowcoding?open)
+![Profile Views](https://widgets.1ceit.com/devdanny21/views?v=1)
 
 ---
 
