@@ -19,6 +19,7 @@
 - 🧪 Game ideas & prototypes
 - ⚙️ Small Python tools
 - 🎨 Frontend practice projects
+- [![Now Coding](https://widgets.1ceit.com/devdanny21/nowcoding?v=1)](https://widgets.1ceit.com/devdanny21/nowcoding?open)
 
 ---
 
