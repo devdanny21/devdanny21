@@ -52,7 +52,8 @@
 ## 🎯 Goals
 - 🚀 Build successful Roblox games  
 - 💻 Become a full-stack developer  
-- ⚡ Improve coding speed & problem solving  
+- ⚡ Improve coding speed & problem solving
+- 💻 Earn Experience
 
 ---
 
