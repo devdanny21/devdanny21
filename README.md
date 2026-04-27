@@ -30,18 +30,12 @@
 ---
 
 ## ⚡ Skills
-<div align="center">
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
-	<code><img width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/discord.svg" alt="Discord" title="Discord"/></code>
-	<code><img width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/github.svg" alt="Github" title="Github"/></code>
-	<code><img width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/claude.svg" alt="Claude" title="Claude"/></code>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,docker,discord,gmail,npm,robloxstudio,vscode,windows,git/>
+  </a>
+</p>
 	
-	
-</div>
-
 ---
 
 
