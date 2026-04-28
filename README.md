@@ -52,3 +52,4 @@
 ## 📫 Connect
 - 💬 Always open for collaborations
 - 🔥 Building new things every day
+- 🔥Contributing active in other Repos!
