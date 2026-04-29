@@ -32,9 +32,15 @@
 ## ⚡ Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,docker,git,discord,gmail,npm,powershell,robloxstudio,ae,windows" />
+    <img src="https://skillicons.dev/icons?i=html,css,docker,git,discord,gmail,npm,powershell,robloxstudio,ae,windows,github" />
   </a>
 </p>
+
+## 🧠 Learning currently:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tailwind,ts,apple,js" />
+  </a>
 	
 ---
 
