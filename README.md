@@ -32,7 +32,7 @@
 ## ⚡ Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,docker,git,discord,gmail,npm,robloxstudio,ae,windows,github,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,git,discord,gmail,npm,robloxstudio,ae,windows,github,figma" />
   </a>
 </p>
 
