@@ -24,9 +24,11 @@ I build games and tools end-to-end — from Roblox mechanics and monetization sy
 
 ### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devdanny21&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devdanny21&theme=nord_dark">
+  <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devdanny21&theme=nord_bright">
+  <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devdanny21&theme=nord_dark">
+</picture>
 
 ---
 
