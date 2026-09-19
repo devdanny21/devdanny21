@@ -18,7 +18,7 @@
 
 I build games and tools end-to-end — from Roblox mechanics and monetization systems to Python automation that solves real problems. Currently an apprentice at [wobcom](https://www.wobcom.de), developing independently outside of that.
 
-**Focus areas:** Roblox game development · Python scripting & automation · Web fundamentals (HTML/CSS/TS/JS)
+**Focus areas:** Roblox game development · Python scripting & automation · Web fundamentals (HTML/CSS/JS)
 
 ---
 
@@ -34,7 +34,7 @@ I build games and tools end-to-end — from Roblox mechanics and monetization sy
 
 ### Currently Learning
 
-`Clean Architecture` `UI/UX for Games` `Full-Stack Fundamentals` `TypeScript/JS`
+`Clean Architecture` `UI/UX for Games` `Full-Stack Fundamentals` `Python`
 
 ---
 
