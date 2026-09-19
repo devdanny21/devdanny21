@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,python,robloxstudio,git,github,figma,discord" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,python,vscode,robloxstudio,git,github,figma,discord,bots,windows,apple" /></a>
 </p>
 
 ---
@@ -34,7 +34,7 @@ I build games and tools end-to-end — from Roblox mechanics and monetization sy
 
 ### Currently Learning
 
-`Clean Architecture` `UI/UX for Games` `Full-Stack Fundamentals` `Python`
+`Python`
 
 ---
 
