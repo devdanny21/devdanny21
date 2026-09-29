@@ -34,7 +34,7 @@ I build games and tools end-to-end — from Roblox mechanics and monetization sy
 
 ### Currently Learning
 
-`Python`
+`Python` `Server Administration` `Soon SQL`
 
 ---
 
