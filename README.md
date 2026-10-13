@@ -34,7 +34,7 @@ I build games and tools end-to-end — from Roblox mechanics and monetization sy
 
 ### Currently Learning
 
-`Python` `Server Administration` `Oracle DB SQL`
+`Python` `Server Administration` `Oracle DB SQL` `Ubuntu Server Linux/Kali too!`
 
 ---
 
