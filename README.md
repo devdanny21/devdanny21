@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,python,vscode,robloxstudio,git,github,figma,discord,bots,windows,apple" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,python,vscode,robloxstudio,git,github,figma,discord,bots,windows,apple,kali,ubuntu" /></a>
 </p>
 
 ---
