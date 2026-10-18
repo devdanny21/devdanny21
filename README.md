@@ -1,48 +1,79 @@
-<h1 align="center">Danny</h1>
+<!-- Animated Typing Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi,+I'm+Danny+%F0%9F%91%8B;Developer+%26+Systems+Enthusiast;IT+Apprentice+%40+WOBCOM;Automating+with+Python" alt="Typing SVG" />
+</h1>
+
+<!-- Premium Badge Row -->
 <p align="center">
-  <b>Developer</b> · <b>Apprentice @ <a href="https://www.wobcom.de">wobcom</a></b>
+  <img src="https://img.shields.io/badge/Location-Wolfsburg%2C%20DE-0e75b6?style=for-the-badge" alt="Location" />
+  <a href="https://www.wobcom.de"><img src="https://img.shields.io/badge/WOBCOM-Apprentice-0e75b6?style=for-the-badge" alt="WOBCOM"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Discord-devdanny21-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <img src="https://img.shields.io/badge/Status-Building-0e75b6?style=for-the-badge" alt="Status" />
+  <a href="https://github.com/devdanny21"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=devdanny21&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/badge/Status-Building-0e75b6?style=flat" alt="status" />
+---
+
+### 👨‍💻 About Me
+
+I engineer end-to-end systems — ranging from high-engagement mechanics and monetization architectures in **Roblox** to automated **Python** solutions that solve real-world problems. Currently advancing my infrastructure and backend knowledge as an IT Apprentice at WOBCOM.
+
+**Focus Areas:** Python Automation & Bots · Server Administration & Linux · Roblox Engineering
+
+---
+
+### 🛠️ Tech Arsenal
+
+**Languages & Core**  
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,html,css,bash,mysql" />
+  </a>
 </p>
 
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=html,css,python,vscode,robloxstudio,git,github,figma,discord,bots,windows,apple,kali,ubuntu" /></a>
+**Infrastructure & OS**  
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,windows,apple,docker" />
+  </a>
+</p>
+
+**Tools & Workflow**  
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,discord,bots,robloxstudio,grafana,raspberrypi" />
+  </a>
 </p>
 
 ---
 
-### About
+### 📊 GitHub Analytics
 
-I build games and tools end-to-end — from Roblox mechanics and monetization systems to Python automation that solves real problems. Currently an apprentice at [wobcom](https://www.wobcom.de), developing independently outside of that.
-
-**Focus areas:** Roblox game development · Python scripting & automation · Web fundamentals (HTML/CSS/JS)
-
----
-
-### GitHub Stats
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devdanny21&theme=nord_dark">
-  <source media="(prefers-color-scheme: light)"srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devdanny21&theme=nord_bright">
-  <img alt="My GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devdanny21&theme=nord_dark">
-</picture>
+<p align="center">
+  <a href="https://github.com/devdanny21">
+    <img src="https://github-readme-stats.vercel.app/api?username=devdanny21&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="Danny's GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/devdanny21">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devdanny21&theme=nord&hide_border=true" alt="Danny's GitHub Streak" width="48%" />
+  </a>
+</p>
 
 ---
 
-### Currently Learning
+### 🎯 Current Operations
 
-`Python` `Server Administration` `Oracle DB SQL` `Ubuntu Server Linux/Kali too!`
+**🔭 Actively Learning:**
+- Advanced Server Administration (Ubuntu/Kali Linux)
+- Oracle DB SQL
+- Advanced Python Backend Engineering
 
----
-
-### Goals
-
+**⚡ Primary Goals:**
 - Ship a breakout Roblox game
-- Grow into a full-stack developer
-- Build sustainable, real income streams
+- Grow into a full-stack systems developer
+- Build sustainable, real income streams through digital assets
 - Sharpen engineering fundamentals through consistent shipping
 
 ---
+<p align="center">
+  <i>"Architecting stability. Automating the rest."</i>
+</p>
