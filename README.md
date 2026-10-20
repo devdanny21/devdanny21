@@ -34,14 +34,14 @@ I engineer end-to-end systems — ranging from high-engagement mechanics and mon
 **Infrastructure & OS**  
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,windows,apple,docker" />
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,windows,apple," />
   </a>
 </p>
 
 **Tools & Workflow**  
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,discord,bots,robloxstudio,grafana,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=git,docker,github,vscode,figma,discord,bots,robloxstudio,grafana,raspberrypi" />
   </a>
 </p>
 
