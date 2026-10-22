@@ -63,7 +63,7 @@ I engineer end-to-end systems — ranging from high-engagement mechanics and mon
 ### 🎯 Current Operations
 
 **🔭 Actively Learning:**
-- Advanced Server Administration (Ubuntu/Kali Linux)
+- Advanced Server Administration (Ubuntu/Kali Linux/Bit Arch)
 - Oracle DB SQL
 - Advanced Python Backend Engineering
 
