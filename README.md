@@ -18,7 +18,7 @@
 
 I engineer end-to-end systems ranging from high-engagement mechanics and monetization architectures in **Roblox** to automated **Python** solutions that solve real-world problems. Currently advancing my infrastructure and backend knowledge as an IT Apprentice at WOBCOM.
 
-**Focus Areas:** Python· Server Administration & Linux · Roblox Engineering
+**Focus Areas:** Python · Server Administration · Roblox Engineering · Linux
 
 ---
 
@@ -27,7 +27,7 @@ I engineer end-to-end systems ranging from high-engagement mechanics and monetiz
 **Languages & Core**  
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,css,bash,mysql" />
+    <img src="https://skillicons.dev/icons?i=python,html,css,bash,powershell,mysql" />
   </a>
 </p>
 
