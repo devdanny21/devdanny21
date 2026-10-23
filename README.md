@@ -16,9 +16,9 @@
 
 ### 👨‍💻 About Me
 
-I engineer end-to-end systems — ranging from high-engagement mechanics and monetization architectures in **Roblox** to automated **Python** solutions that solve real-world problems. Currently advancing my infrastructure and backend knowledge as an IT Apprentice at WOBCOM.
+I engineer end-to-end systems ranging from high-engagement mechanics and monetization architectures in **Roblox** to automated **Python** solutions that solve real-world problems. Currently advancing my infrastructure and backend knowledge as an IT Apprentice at WOBCOM.
 
-**Focus Areas:** Python Automation & Bots · Server Administration & Linux · Roblox Engineering
+**Focus Areas:** Python· Server Administration & Linux · Roblox Engineering
 
 ---
 
@@ -63,17 +63,18 @@ I engineer end-to-end systems — ranging from high-engagement mechanics and mon
 ### 🎯 Current Operations
 
 **🔭 Actively Learning:**
-- Advanced Server Administration (Ubuntu/Kali Linux/Bit Arch)
+- Advanced Server Administration with Ubuntu
+- Overall Linux OS (Kali,Arch)
 - Oracle DB SQL
-- Advanced Python Backend Engineering
+- Advanced Python
 
 **⚡ Primary Goals:**
-- Ship a breakout Roblox game
+- Finish my Apprenticeship successfully.
 - Grow into a full-stack systems developer
-- Build sustainable, real income streams through digital assets
 - Sharpen engineering fundamentals through consistent shipping
+- Learn more Programming Languages
 
 ---
 <p align="center">
-  <i>"Architecting stability. Automating the rest."</i>
+  <i>"Architecting stability. Automating the rest. Then Chill"</i>
 </p>
