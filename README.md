@@ -22,7 +22,7 @@ I engineer end-to-end systems ranging from high-engagement mechanics and monetiz
 
 ---
 
-### 🛠️ Tech Arsenal
+### 🛠️ Skills
 
 **Languages & Core**  
 <p>
