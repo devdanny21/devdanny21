@@ -41,7 +41,7 @@ I engineer end-to-end systems ranging from high-engagement mechanics and monetiz
 **Tools & Workflow**  
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,github,vscode,figma,discord,bots,robloxstudio,grafana,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,vscode,figma,discord,bots,robloxstudio,grafana,raspberrypi,ae" />
   </a>
 </p>
 
