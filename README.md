@@ -1,9 +1,7 @@
-<!-- Animated Typing Header -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi,+I'm+Danny+%F0%9F%91%8B;Developer+%26+Systems+Enthusiast;IT+Apprentice+%40+WOBCOM;Automating+with+Python" alt="Typing SVG" />
 </h1>
 
-<!-- Premium Badge Row -->
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Wolfsburg%2C%20DE-0e75b6?style=for-the-badge" alt="Location" />
   <a href="https://www.wobcom.de"><img src="https://img.shields.io/badge/WOBCOM-Apprentice-0e75b6?style=for-the-badge" alt="WOBCOM"></a>
@@ -70,11 +68,10 @@ I engineer end-to-end systems ranging from high-engagement mechanics and monetiz
 
 **⚡ Primary Goals:**
 - Finish my Apprenticeship successfully.
-- Grow into a full-stack systems developer
 - Sharpen engineering fundamentals through consistent shipping
 - Learn more Programming Languages
 
 ---
 <p align="center">
-  <i>"Architecting stability. Automating the rest. Then Chill"</i>
+  <i>"Architecting stability. Automating the rest.</i>
 </p>
