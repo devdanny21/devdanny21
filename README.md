@@ -73,5 +73,5 @@ I engineer end-to-end systems ranging from high-engagement mechanics and monetiz
 
 ---
 <p align="center">
-  <i>"Architecting stability. Automating the rest.</i>
+  <i>"Architecting stability. Automating the rest".</i>
 </p>
