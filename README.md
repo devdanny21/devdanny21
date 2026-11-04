@@ -32,7 +32,7 @@ I engineer end-to-end systems ranging from high-engagement mechanics and monetiz
 **Infrastructure & OS**  
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,arch,kali,windows,apple," />
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,arch,nix,kali,windows,apple," />
   </a>
 </p>
 
