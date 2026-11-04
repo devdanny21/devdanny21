@@ -67,7 +67,7 @@ I engineer end-to-end systems ranging from high-engagement mechanics and monetiz
 - Advanced Python
 
 **⚡ Primary Goals:**
-- Finish my Apprenticeship successfully.
+- Finish my Apprenticeship successfully
 - Sharpen engineering fundamentals through consistent shipping
 - Learn more Programming Languages
 
