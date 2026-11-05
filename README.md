@@ -47,10 +47,6 @@ I engineer end-to-end systems ranging from high-engagement mechanics and monetiz
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <a href="https://github.com/devdanny21">
-    <img src="https://github-readme-stats.vercel.app/api?username=devdanny21&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="Danny's GitHub Stats" width="48%" />
-  </a>
   <a href="https://github.com/devdanny21">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=devdanny21&theme=nord&hide_border=true" alt="Danny's GitHub Streak" width="48%" />
   </a>
